@@ -39,7 +39,6 @@ document.addEventListener("DOMContentLoaded", () => {
       deadline: "Deadline - 2023-08-30",
       status: "done"
     }
-    // Add more tasks here
   ];
 
   tasks.forEach(task => {
